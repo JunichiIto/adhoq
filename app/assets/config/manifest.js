@@ -1,0 +1,1 @@
+//= link adhoq/application.js
