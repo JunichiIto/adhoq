@@ -1,2 +1,2 @@
-//= link adhoq/application.js
-//= link adhoq/application.css
+//= link_directory ../javascripts/adhoq .js
+//= link_directory ../stylesheets/adhoq .css
